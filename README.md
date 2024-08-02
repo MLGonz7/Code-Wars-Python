@@ -1,1 +1,1 @@
-Some challenges I completed and finally decided to showcase.
+Some challenges I completed and decided to post here to show my continued learning.
