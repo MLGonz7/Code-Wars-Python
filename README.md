@@ -1,1 +1,1 @@
-# Code-Wars-Python
+Some challenges I completed and finally decided to showcase.
