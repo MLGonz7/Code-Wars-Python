@@ -15,5 +15,7 @@ def is_anagram(test, original):
     original = sorted(str.lower(original))
     if test == original:
         return True
+        print(f"The word {test} is an anagram of {original}")
     else:
         return False
+        print(f"The word {test} is not an anagram of {original}")
